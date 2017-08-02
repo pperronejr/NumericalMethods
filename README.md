@@ -1,2 +1,2 @@
 # NumericalMethods
-This repository is a starting point for a collection of general Numerical Methods.
+This repository is the starting point for a collection of general Numerical Methods.
